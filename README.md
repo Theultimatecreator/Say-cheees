@@ -7,7 +7,7 @@ Take pictures and videos with awesome camera app
 
 **📸 Screenshots**  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/37505dce-160e-489b-9ea5-cbda555fb72b" width="300">
+  <img src="https://github.com/user-attachments/assets/cb00b6ba-9967-4903-b37b-44daf11e3c22" width="300">
 </p>
 
 #

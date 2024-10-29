@@ -6,8 +6,9 @@ Take pictures and videos with awesome camera app
 
 
 **📸 Screenshots**  
-
-![1726559071381](https://github.com/user-attachments/assets/cb00b6ba-9967-4903-b37b-44daf11e3c22)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/37505dce-160e-489b-9ea5-cbda555fb72b" width="300">
+</p>
 
 #
 
@@ -19,10 +20,10 @@ You can transfer and receive moeny(not real) though this app with cool ui, addin
 
 🛠️ Technologies   
 
-Compose - for awesome ui and better performance than xml.                                                                    
-Room - for saving offline data.                                                                                                                                      
-Camera - for taking pictures and videos                               
-Kotlin - for backend part                                            
+**Compose** - for awesome ui and better performance than xml.                                                                    
+**Room** - for saving offline data.                                                                                                                                      
+**Camera** - for taking pictures and videos                               
+**Kotlin** - for backend part                                            
 
 #
 
